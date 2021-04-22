@@ -40,6 +40,21 @@ namespace Figures
             tr.Perimeter();
             tr.Square();
             tr.PrintFigure();
+
+            Trapezoid trap = new Trapezoid("Трапеция", 5, 6, 4, 7, 6.5M);
+            trap.Perimeter();
+            trap.Square();
+            trap.Print();
+
+            Quadrate quad = new Quadrate("Квадрат", 8);
+            quad.Perimeter();
+            quad.Square();
+            quad.PrintFigure();
+
+            GeometricFigure[] geoFig = { quad, tr, r };
+
+            CompositeFigure cf = new CompositeFigure(geoFig);
+            cf.Print();
         }
     }
 }

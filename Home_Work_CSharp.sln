@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "До 06.04.2021", "До 06.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{9AE619BB-1EFF-4C5D-A42D-079F41819A94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentoOfGoodsManagement", "DepartmentoOfGoodsManagement\DepartmentoOfGoodsManagement.csproj", "{2F3C7D3D-EE53-4242-AE40-6153AE452DDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepartmentOfGoodsManagement", "DepartmentoOfGoodsManagement\DepartmentOfGoodsManagement.csproj", "{2F3C7D3D-EE53-4242-AE40-6153AE452DDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
